@@ -68,8 +68,7 @@ p { margin: 0 0 0.9rem; }
 /* ---------- Header ---------- */
 .intro {
   display: grid;
-  grid-template-columns: 1fr 10.5rem;
-  gap: 2.5rem;
+  grid-template-columns: 1fr;
   align-items: start;
 }
 
